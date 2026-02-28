@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liuxin. I am INFJ.
-- 👀 I’m interested in dance, travel, reading and cycling!
-- 🌱 I’m currently learning mathematics and computing on the 4th year in INSA Rouen Normandy in France.
+- 👀 I’m interested in dancing, traveling, reading and cycling!
+- 🌱 I’m a applied mathematics student.
 - 💞️ I’m looking to collaborate with you!
 - 📫 You can reach me by personal email: liuxinyang0917@gmail.com
                           or by school email: liuxin.yang@insa-rouen.fr
